@@ -2,19 +2,19 @@
 
  - 설치URL
  
-      VirtualBox
+      VirtualBox - 
       https://www.virtualbox.org/
 
-      Vagrant
+      Vagrant - 
       https://www.vagrantup.com/
 
-      VSCode
+      VSCode - 
       https://code.visualstudio.com/
 
  - 과제
   
-      Remix
+      Remix - 
       http://remix.ethereum.org
 
-      Metamask
+      Metamask - 
       https://metamask.io/
