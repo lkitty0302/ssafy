@@ -1,0 +1,13 @@
+
+//71p 가상머신 내 workspace디렉토리 생성 후 
+mkdir -p dev/eth_localdata
+cd dev/eth_localdata
+
+
+//Geth 초기화
+geth --datadir /home/vagrant/dev/eth_localdata init /home/vagrant/dev/eth_localdata/CustomGenesis.json
+
+
+//Geth 구동
+geth --networkid 921 --maxpeers 2 --datadir /home/vagrant/dev/eth_localdata --port 30303 console
+© 2019 GitHub, Inc.
